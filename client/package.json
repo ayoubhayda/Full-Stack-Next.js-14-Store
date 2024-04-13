@@ -9,13 +9,28 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@clerk/nextjs": "^4.29.9",
+    "@clerk/themes": "^1.7.12",
+    "@reduxjs/toolkit": "^2.2.2",
+    "@stripe/react-stripe-js": "^2.6.2",
+    "@stripe/stripe-js": "^3.2.0",
+    "axios": "^1.6.8",
+    "lucide-react": "^0.363.0",
+    "next": "^14.1.4",
     "react": "^18",
+    "react-checkmark": "^2.0.0",
     "react-dom": "^18",
-    "next": "14.1.4"
+    "react-loader-spinner": "^6.1.6",
+    "react-redux": "^9.1.0",
+    "react-spinners": "^0.13.8",
+    "resend": "^3.2.0",
+    "stripe": "^14.24.0"
   },
   "devDependencies": {
+    "@types/react": "18.2.70",
     "autoprefixer": "^10.0.1",
     "postcss": "^8",
-    "tailwindcss": "^3.3.0"
+    "tailwindcss": "^3.3.0",
+    "typescript": "5.4.3"
   }
 }
