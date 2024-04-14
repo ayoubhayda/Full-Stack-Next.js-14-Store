@@ -37,6 +37,7 @@ This is a full-stack online store built using Next.js 14, Tailwind CSS for styli
 1. Clone the repository: `git clone https://github.com/ayoubhayda/react-admin-dashboard.git`
 2. Install dependencies: `npm install` or `yarn install`
 3. Set up environment variables:
+   
    ```bash
    NEXT_PUBLIC_REST_API_KEY='your_rest_api_key'
    NEXT_PUBLIC_REST_API_URL='http://localhost:1337/api'
@@ -49,7 +50,7 @@ This is a full-stack online store built using Next.js 14, Tailwind CSS for styli
    NEXT_PUBLIC_STRIPE_PUBLISHER_KEY='your_stripe_publisher_key'
    NEXT_PUBLIC_STRIPE_SECRET_KEY='your_stripe_secret_key'
    ```
-4. Start the development server: `npm run dev` or `yarn dev`
+5. Start the development server: `npm run dev` or `yarn dev`
 
 ## Contributions and Feedback
 
