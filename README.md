@@ -32,10 +32,6 @@ This is a full-stack online store built using Next.js 14, Tailwind CSS for styli
 - Secure payment processing through Stripe integration
 - Hassle-free email notifications and order management using Resend tool
 
-## Demo
-
-Check out the live demo [here](demo_link_placeholder).
-
 ## Get Started
 
 1. Clone the repository: `git clone https://github.com/ayoubhayda/react-admin-dashboard.git`
